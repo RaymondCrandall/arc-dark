@@ -1,0 +1,37 @@
+{
+  "manifest_version": 2,
+
+  "applications": {
+    "gecko": {
+      "id": "arc-dark-theme@afnankhan",
+      "strict_min_version": "57.0"
+    }
+  },
+
+  "name": "Arc Dark Theme WE",
+  "version": "2018.02.20",
+
+  "theme": {
+    "images": {
+      "headerURL": ""
+    },
+    "colors": {
+      "accentcolor": "#2F343F",
+      "textcolor": "rgba(207, 218, 231, 0.6)",
+      "toolbar": "#383C4A",
+      "toolbar_text": "#D3DAE3",
+      "toolbar_field": "#404552",
+      "toolbar_field_text": "#D3DAE3",
+      "toolbar_field_border": "#2B2E39",
+      "toolbar_field_separator": "#2B2E39",
+      "toolbar_vertical_separator": "#2B2E39",
+      "button_background_hover": "#4E5462",
+      "button_background_active": "#5294E2",
+      "icons_attention": "#5294E2",
+      "tab_loading": "#5294E2",
+      "popup": "#2F343F",
+      "popup_text": "#D3DAE3",
+      "popup_border": "#2B2E39"
+    }
+  }
+}
